@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "agendaDani",
+    "packageName": "com.agenda.dani",
+    "packageFolder": "com/agenda/dani",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "7265247a272f91161d746ae482e1f99e27f34e6d",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
